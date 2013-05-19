@@ -11,7 +11,7 @@
 # rpmbuild -bb ~/rpmbuild/SPECS/ruby-2.0.spec
 
 %define rubyver         2.0.0
-%define rubyminorver    p0
+%define rubyminorver    p195
 
 Name:           ruby
 Version:        %{rubyver}_%{rubyminorver}
